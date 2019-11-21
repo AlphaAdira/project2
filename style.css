@@ -130,7 +130,8 @@ h2 {
 	text-align: center;
 	padding-left: 20px;
 	padding-right: 20px;
-	padding-top: 15px;
+	margin-top: auto;
+	margin-bottom: auto;
 }
 
 .ww2 {
